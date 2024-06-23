@@ -12,7 +12,7 @@ repositories {
 }
 
 dependencies {
-    implementation("com.github.ItsFelix5:Minestom-fe:b2cf292454")
+    implementation("com.github.ItsFelix5:Minestom-fe:-SNAPSHOT")
 }
 
 tasks.withType<Jar> {
